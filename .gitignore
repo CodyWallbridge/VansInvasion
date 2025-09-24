@@ -1,0 +1,13 @@
+# Unreal build & cache dirs
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE/editor junk
+.vs/
+.vscode/
+
+# OS junk
+Thumbs.db
+.DS_Store
